@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SachinKausik
-- 👀 I’m teach DSML
-- 🌱 I’m currently learning basics
+- 👀 I teach DSML
+- 🌱 I’m currently working on making LLM Accesible to Everyone
 - 💞️ I’m looking to collaborate on everything
-- 📫 Linkedin
+- 📫 Linkedin: http://linkedin.com/in/sachin-kaushik/
 
 <!---
 SachinScaler/SachinScaler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
